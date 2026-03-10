@@ -55,8 +55,16 @@ export function AnalyticsProvider({ children }) {
 
   // WebSocket connection
   useEffect(() => {
-    const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
-    const wsUrl = `${protocol}//${window.location.host}/ws`;
+    const apiUrl = import.meta.env.VITE_API_URL;
+    let wsUrl;
+    if (apiUrl) {
+      const url = new URL(apiUrl);
+      const protocol = url.protocol === 'https:' ? 'wss:' : 'ws:';
+      wsUrl = `${protocol}//${url.host}/ws`;
+    } else {
+      const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+      wsUrl = `${protocol}//${window.location.host}/ws`;
+    }
 
     try {
       const ws = new WebSocket(wsUrl);
