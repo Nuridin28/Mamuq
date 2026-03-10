@@ -1,0 +1,482 @@
+{
+  "nav": {
+    "home": "Басты бет",
+    "catalog": "Каталог",
+    "profile": "Профиль",
+    "orders": "Тапсырыстар",
+    "admin": "Админ панелi",
+    "login": "Кiру",
+    "register": "Тiркелу",
+    "logout": "Шығу",
+    "myAccount": "Менiң аккаунтым",
+    "settings": "Баптаулар"
+  },
+  "hero": {
+    "title": "Барлығына арналған адаптивтi киiм",
+    "subtitle": "Сiздiң бiрегей қажеттiлiктерiңiзге сай жасалған инклюзивтi сән. Мүмкiндiгi шектеулi адамдарға арналған жекелендiрiлген, ыңғайлы және стильдi киiм.",
+    "browseCatalog": "Каталогты қарау",
+    "createProfile": "Профиль жасау",
+    "learnMore": "Толығырақ"
+  },
+  "about": {
+    "title": "Mamuq туралы",
+    "description": "Бiз әркiм өз денесi мен өмiр салтына сай киiмге лайық деп сенемiз. Mamuq функционалды әрi сәндi киiм жасау үшiн инновациялық дизайн мен адаптивтi технологияны бiрiктiредi.",
+    "mission": "Бiздiң миссиямыз",
+    "missionText": "Адаптивтi киiмдi физикалық мүмкiндiктерiне қарамастан барлығына қолжетiмдi, арзан және стильдi ету.",
+    "vision": "Бiздiң көзқарасымыз",
+    "visionText": "Киiм адамдарға бейiмделетiн әлем, керiсiнше емес.",
+    "sdg3": "ТДМ 3: Денсаулық және әл-ауқат",
+    "sdg10": "ТДМ 10: Теңсiздiктi азайту",
+    "sdgDescription": "БҰҰ Тұрақты даму мақсаттарын қолдау"
+  },
+  "features": {
+    "title": "Неге Mamuq таңдайды",
+    "subtitle": "Қамқорлықпен жасалған, жайлылыққа арналған",
+    "personalizedFit": {
+      "title": "Жекелендiрiлген пiшiн",
+      "description": "Әрбiр киiм сiздiң дене өлшемдерiңiзге және қозғалыс қажеттiлiктерiңiзге сай дайындалады."
+    },
+    "adaptiveFasteners": {
+      "title": "Адаптивтi iлгектер",
+      "description": "Қол қозғалысы мен қалауыңызға сай магниттi, жабысқақ, түйме немесе сыдырма iлгектердi таңдаңыз."
+    },
+    "comfortableFabrics": {
+      "title": "Жайлы маталар",
+      "description": "Сезiмтал терiге жұмсақ, сенсорлы қауiпсiз материалдар, күтiмi оңай."
+    },
+    "inclusiveDesign": {
+      "title": "Инклюзивтi дизайн",
+      "description": "Арба пайдаланушылары, протездер және түрлi қозғалыс қажеттiлiктерi үшiн сәндi дизайн."
+    }
+  },
+  "howItWorks": {
+    "title": "Қалай жұмыс iстейдi",
+    "subtitle": "Мiнсiз адаптивтi гардеробыңызға үш қарапайым қадам",
+    "step1": {
+      "title": "Профиль жасаңыз",
+      "description": "Тәжiрибеңiздi жекелендiру үшiн қозғалысыңыз, сезiмталдығыңыз және қалауларыңыз туралы айтыңыз."
+    },
+    "step2": {
+      "title": "Каталогты қараңыз",
+      "description": "Қолжетiмдiлiк профилiңiзге сай сүзiлген және бағаланған коллекциямызды зерттеңiз."
+    },
+    "step3": {
+      "title": "Арнайы киiм алыңыз",
+      "description": "Теңшеу опцияларымен тапсырыс берiп, қажеттiлiктерiңiзге сай бейiмделген киiм алыңыз."
+    }
+  },
+  "stats": {
+    "customers": "Қанағаттанған тұтынушылар",
+    "products": "Адаптивтi өнiмдер",
+    "customizations": "Теңшеу опциялары",
+    "languages": "Қолдау тiлдерi"
+  },
+  "catalog": {
+    "title": "Адаптивтi киiм каталогы",
+    "breadcrumb": "Басты бет / Каталог",
+    "filters": "Сүзгiлер",
+    "clearFilters": "Сүзгiлердi тазалау",
+    "applyFilters": "Сүзгiлердi қолдану",
+    "showFilters": "Сүзгiлердi көрсету",
+    "hideFilters": "Сүзгiлердi жасыру",
+    "categories": {
+      "title": "Санаттар",
+      "shirts": "Жейделер",
+      "pants": "Шалбарлар",
+      "outerwear": "Сыртқы киiм",
+      "underwear": "Iшкi киiм",
+      "accessories": "Аксессуарлар",
+      "dresses": "Көйлектер"
+    },
+    "fastenerTypes": {
+      "title": "Iлгек түрi",
+      "magnetic": "Магниттi",
+      "velcro": "Жабысқақ",
+      "snaps": "Түймелер",
+      "zipper": "Сыдырма",
+      "buttons": "Түймешiктер",
+      "pullover": "Iлгексiз"
+    },
+    "neckWidth": {
+      "title": "Мойын ойығы",
+      "standard": "Стандартты",
+      "wide": "Кең",
+      "extraWide": "Өте кең"
+    },
+    "wheelchairFriendly": "Арбаға бейiмделген",
+    "priceRange": "Баға аралығы",
+    "minPrice": "Мин. баға",
+    "maxPrice": "Макс. баға",
+    "sortBy": "Сұрыптау",
+    "sortOptions": {
+      "newest": "Жаңалар",
+      "priceLow": "Баға: өсу бойынша",
+      "priceHigh": "Баға: кему бойынша",
+      "popular": "Танымал",
+      "rating": "Рейтинг бойынша"
+    },
+    "viewDetails": "Толығырақ",
+    "addToOrder": "Тапсырысқа қосу",
+    "suitabilityScore": "Сәйкестiк бағасы",
+    "wheelchairBadge": "Арбаға бейiмделген",
+    "resultsCount": "{{count}} өнiм табылды",
+    "noResults": "Сүзгiлерiңiзге сай өнiм жоқ. Критерийлердi өзгертiп көрiңiз."
+  },
+  "product": {
+    "backToCatalog": "Каталогқа оралу",
+    "description": "Сипаттама",
+    "features": "Ерекшелiктер",
+    "specifications": "Сипаттамалар",
+    "price": "Баға",
+    "size": "Өлшем",
+    "selectSize": "Өлшемдi таңдаңыз",
+    "sizes": {
+      "xs": "XS",
+      "s": "S",
+      "m": "M",
+      "l": "L",
+      "xl": "XL",
+      "xxl": "XXL"
+    },
+    "color": "Түс",
+    "fastenerType": "Iлгек түрi",
+    "neckWidth": "Мойын ойығы",
+    "sleeveType": "Жең түрi",
+    "wheelchairFriendly": "Арбаға бейiмделген",
+    "softSeams": "Жұмсақ тiгiстер",
+    "fabricType": "Мата түрi",
+    "careInstructions": "Күтiм нұсқаулары",
+    "addToOrder": "Тапсырысқа қосу",
+    "addToCart": "Себетке қосу",
+    "customize": "Теңшеу",
+    "suitabilityScore": "Сiздiң сәйкестiк бағаңыз",
+    "suitabilityHigh": "Профилiңiзге өте сай!",
+    "suitabilityMedium": "Кейбiр түзетулермен жақсы сәйкестiк",
+    "suitabilityLow": "Барлық қажеттiлiктерiңiзге сай келмеуi мүмкiн",
+    "customization": {
+      "title": "Теңшеу опциялары",
+      "fastener": "Қалаулы iлгек",
+      "sleeveLength": "Жең ұзындығы",
+      "seamType": "Тiгiс түрi",
+      "notes": "Қосымша жазбалар",
+      "notesPlaceholder": "Кез келген арнайы талаптар..."
+    },
+    "notFound": "Өнiм табылмады"
+  },
+  "cart": {
+    "title": "Себет",
+    "empty": "Сiздiң себетiңiз бос",
+    "total": "Жиыны",
+    "checkout": "Тапсырысты рәсiмдеу",
+    "remove": "Жою",
+    "continueShopping": "Сатып алуды жалғастыру",
+    "addedToCart": "Себетке қосылды!",
+    "quantity": "Саны"
+  },
+  "checkout": {
+    "title": "Тапсырысты рәсiмдеу",
+    "orderSummary": "Тапсырыс мәлiметтерi",
+    "shippingAddress": "Жеткiзу мекенжайы",
+    "street": "Көше",
+    "city": "Қала",
+    "state": "Облыс/Аймақ",
+    "zipCode": "Пошта индексi",
+    "country": "Ел",
+    "phone": "Телефон нөмiрi",
+    "placeOrder": "Тапсырыс беру",
+    "success": "Тапсырыс сәттi рәсiмделдi!",
+    "processing": "Тапсырысыңыз өңделуде..."
+  },
+  "profile": {
+    "title": "Қолжетiмдiлiк профилi",
+    "subtitle": "Жекелендiрiлген киiм ұсыныстары үшiн қажеттiлiктерiңiздi түсiнуге көмектесiңiз",
+    "editProfile": "Профильдi өзгерту",
+    "deleteProfile": "Профильдi жою",
+    "deleteConfirm": "Профильдi жойғыңыз келетiнiне сенiмдiсiз бе? Бұл әрекеттi болдырмау мүмкiн емес.",
+    "noProfile": "Сiзде әлi қолжетiмдiлiк профилi жоқ. Жекелендiрiлген киiм ұсыныстарын алу үшiн жасаңыз.",
+    "createProfile": "Профиль жасау",
+    "progress": "{{total}} қадамның {{current}}-i",
+    "next": "Келесi",
+    "previous": "Алдыңғы",
+    "save": "Профильдi сақтау",
+    "saving": "Сақтау...",
+    "saved": "Профиль сәттi сақталды!",
+    "step1": {
+      "title": "Қозғалыс туралы ақпарат",
+      "handMobility": "Қол қозғалысы",
+      "leftHand": "Сол қол қозғалысы",
+      "rightHand": "Оң қол қозғалысы",
+      "mobilityOptions": {
+        "full": "Толық қозғалыс",
+        "limited": "Шектеулi қозғалыс",
+        "none": "Қозғалыс жоқ"
+      },
+      "wheelchairUser": "Арба пайдаланушысы",
+      "yes": "Иә",
+      "no": "Жоқ"
+    },
+    "step2": {
+      "title": "Мата және iлгек қалаулары",
+      "fabricSensitivity": "Матаға сезiмталдық",
+      "fabricOptions": {
+        "wool": "Жүн",
+        "synthetic": "Синтетика",
+        "latex": "Латекс",
+        "rough": "Дөрекi текстуралар",
+        "tags": "Белгiлер мен жапсырмалар",
+        "none": "Сезiмталдық жоқ"
+      },
+      "fastenerPreference": "Iлгек қалаулары",
+      "fastenerOptions": {
+        "magnetic": "Магниттi iлгектер",
+        "velcro": "Жабысқақ",
+        "snaps": "Түймелер",
+        "zipper": "Сыдырма (iрi)",
+        "buttons": "Түймешiктер",
+        "pullover": "Iлгексiз"
+      }
+    },
+    "step3": {
+      "title": "Киiм параметрлерi",
+      "neckWidth": "Мойын ойығы қалауы",
+      "neckOptions": {
+        "standard": "Стандартты",
+        "wide": "Кең",
+        "extraWide": "Өте кең"
+      },
+      "sleeveType": "Қалаулы жең түрi",
+      "sleeveOptions": {
+        "long": "Ұзын жең",
+        "short": "Қысқа жең",
+        "sleeveless": "Жеңсiз",
+        "raglan": "Реглан (еркiн қозғалыс)"
+      },
+      "softSeams": "Жұмсақ/тегiс тiгiстердi қалаймын",
+      "softSeamsDescription": "Терiнi тiтiркендiрмейтiн тегiс немесе жабық тiгiстер"
+    },
+    "step4": {
+      "title": "Қосымша ақпарат",
+      "sensitiveAreas": "Сезiмтал дене аймақтары",
+      "areaOptions": {
+        "neck": "Мойын",
+        "shoulders": "Иықтар",
+        "arms": "Қолдар",
+        "wrists": "Бiлектер",
+        "chest": "Кеуде",
+        "back": "Арқа",
+        "waist": "Бел",
+        "hips": "Жамбас",
+        "legs": "Аяқтар",
+        "ankles": "Тобықтар"
+      },
+      "additionalNotes": "Қосымша жазбалар",
+      "notesPlaceholder": "Киiм қажеттiлiктерiңiз туралы басқа ақпарат..."
+    },
+    "summary": {
+      "title": "Профиль шолуы",
+      "handMobility": "Қол қозғалысы",
+      "wheelchairUser": "Арба пайдаланушысы",
+      "fabricSensitivities": "Матаға сезiмталдық",
+      "fastenerPreferences": "Iлгек қалаулары",
+      "neckWidth": "Мойын ойығы",
+      "sleeveType": "Жең түрi",
+      "softSeams": "Жұмсақ тiгiстер",
+      "sensitiveAreas": "Сезiмтал аймақтар",
+      "notes": "Қосымша жазбалар"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Қош келдiңiз",
+      "subtitle": "Mamuq аккаунтыңызға кiрiңiз",
+      "email": "Электрондық пошта",
+      "emailPlaceholder": "сiздiң@пошта.com",
+      "password": "Құпия сөз",
+      "passwordPlaceholder": "Құпия сөздi енгiзiңiз",
+      "submit": "Кiру",
+      "noAccount": "Аккаунтыңыз жоқ па?",
+      "registerLink": "Мұнда жасаңыз",
+      "forgotPassword": "Құпия сөздi ұмыттыңыз ба?",
+      "error": "Қате пошта немесе құпия сөз"
+    },
+    "register": {
+      "title": "Аккаунт жасау",
+      "subtitle": "Mamuq-ге қосылыңыз және адаптивтi сәндi ашыңыз",
+      "name": "Толық аты-жөнi",
+      "namePlaceholder": "Толық аты-жөнiңiздi енгiзiңiз",
+      "firstName": "Аты",
+      "firstNamePlaceholder": "Атыңызды енгiзiңiз",
+      "lastName": "Тегi",
+      "lastNamePlaceholder": "Тегiңiздi енгiзiңiз",
+      "email": "Электрондық пошта",
+      "emailPlaceholder": "сiздiң@пошта.com",
+      "password": "Құпия сөз",
+      "passwordPlaceholder": "Күштi құпия сөз жасаңыз",
+      "confirmPassword": "Құпия сөздi растау",
+      "confirmPasswordPlaceholder": "Құпия сөздi қайта енгiзiңiз",
+      "language": "Қалаулы тiл",
+      "role": "Аккаунт түрi",
+      "roleOptions": {
+        "user": "Пайдаланушы (өзiм үшiн)",
+        "guardian": "Қамқоршы (қамқорлығымдағы адам үшiн)"
+      },
+      "submit": "Аккаунт жасау",
+      "hasAccount": "Аккаунтыңыз бар ма?",
+      "loginLink": "Мұнда кiрiңiз",
+      "error": "Тiркелу сәтсiз. Қайта көрiңiз.",
+      "passwordMismatch": "Құпия сөздер сәйкес келмейдi",
+      "validation": {
+        "nameRequired": "Аты-жөнi мiндеттi",
+        "emailRequired": "Пошта мiндеттi",
+        "emailInvalid": "Дұрыс пошта енгiзiңiз",
+        "passwordRequired": "Құпия сөз мiндеттi",
+        "passwordMin": "Құпия сөз кемiнде 6 таңбадан тұруы керек"
+      }
+    }
+  },
+  "orders": {
+    "title": "Менiң тапсырыстарым",
+    "noOrders": "Сiзде әлi тапсырыстар жоқ.",
+    "browseProducts": "Өнiмдердi қарау",
+    "orderNumber": "Тапсырыс #{{id}}",
+    "date": "Күнi",
+    "status": "Күйi",
+    "total": "Жиыны",
+    "items": "Өнiмдер",
+    "details": "Тапсырыс мәлiметтерi",
+    "statuses": {
+      "pending": "Күтуде",
+      "confirmed": "Расталған",
+      "processing": "Өңделуде",
+      "shipped": "Жiберiлген",
+      "delivered": "Жеткiзiлген",
+      "cancelled": "Бас тартылған"
+    },
+    "trackOrder": "Тапсырысты бақылау",
+    "cancelOrder": "Тапсырыстан бас тарту",
+    "reorder": "Қайта тапсырыс беру",
+    "quantity": "Саны",
+    "customizations": "Теңшеу",
+    "shippingAddress": "Жеткiзу мекенжайы",
+    "paymentMethod": "Төлем әдiсi"
+  },
+  "admin": {
+    "title": "Админ панелi",
+    "sidebar": {
+      "dashboard": "Бақылау тақтасы",
+      "products": "Өнiмдер",
+      "orders": "Тапсырыстар",
+      "analytics": "Аналитика",
+      "users": "Пайдаланушылар"
+    },
+    "stats": {
+      "totalUsers": "Барлық пайдаланушылар",
+      "onlineNow": "Қазiр онлайн",
+      "totalOrders": "Барлық тапсырыстар",
+      "revenue": "Табыс"
+    },
+    "analytics": {
+      "buttonClicks": "Сатып алу батырмасының кликтерi (30 күн)",
+      "pageViews": "Беттер бойынша қаралымдар",
+      "userLanguages": "Тiлдер бойынша пайдаланушылар",
+      "sessions": "Уақыт бойынша сессиялар",
+      "recentEvents": "Соңғы оқиғалар",
+      "onlineUsers": "Онлайн пайдаланушылар",
+      "buttonClicksTable": "Клик аналитикасы"
+    },
+    "products": {
+      "title": "Өнiмдердi басқару",
+      "addProduct": "Өнiм қосу",
+      "editProduct": "Өнiмдi өзгерту",
+      "deleteProduct": "Өнiмдi жою",
+      "deleteConfirm": "Бұл өнiмдi жойғыңыз келетiнiне сенiмдiсiз бе?",
+      "name": "Өнiм атауы",
+      "nameEn": "Атауы (English)",
+      "nameRu": "Атауы (Орысша)",
+      "nameKz": "Атауы (Қазақша)",
+      "descriptionEn": "Сипаттамасы (English)",
+      "descriptionRu": "Сипаттамасы (Орысша)",
+      "descriptionKz": "Сипаттамасы (Қазақша)",
+      "price": "Бағасы",
+      "category": "Санат",
+      "image": "Сурет URL",
+      "inStock": "Қоймада бар",
+      "featured": "Ұсынылатын"
+    },
+    "orders": {
+      "title": "Тапсырыстарды басқару",
+      "updateStatus": "Күйдi жаңарту",
+      "customerInfo": "Тұтынушы ақпараты",
+      "orderItems": "Тапсырыс өнiмдерi",
+      "filterByStatus": "Күйi бойынша сүзу",
+      "allStatuses": "Барлық күйлер"
+    }
+  },
+  "common": {
+    "loading": "Жүктелуде...",
+    "error": "Бiрдеңе дұрыс болмады",
+    "retry": "Қайта көрiңiз",
+    "save": "Сақтау",
+    "cancel": "Бас тарту",
+    "delete": "Жою",
+    "edit": "Өзгерту",
+    "add": "Қосу",
+    "search": "Iздеу",
+    "searchPlaceholder": "Iздеу...",
+    "filter": "Сүзгi",
+    "noResults": "Ештеңе табылмады",
+    "confirm": "Растау",
+    "close": "Жабу",
+    "back": "Артқа",
+    "next": "Келесi",
+    "previous": "Алдыңғы",
+    "submit": "Жiберу",
+    "reset": "Тазалау",
+    "yes": "Иә",
+    "no": "Жоқ",
+    "or": "немесе",
+    "and": "және",
+    "all": "Барлығы",
+    "none": "Жоқ",
+    "required": "Мiндеттi",
+    "optional": "Мiндеттi емес",
+    "currency": "{{amount}} тг",
+    "perPage": "Бетте",
+    "showing": "{{total}} iшiнен {{from}}-{{to}} көрсетiлуде",
+    "actions": "Әрекеттер",
+    "status": "Күйi",
+    "date": "Күнi",
+    "name": "Аты",
+    "email": "Пошта",
+    "phone": "Телефон",
+    "address": "Мекенжай"
+  },
+  "footer": {
+    "description": "Жайлылық, қолжетiмдiлiк және стиль үшiн жасалған адаптивтi киiм. Сәндi барлығына инклюзивтi етемiз.",
+    "quickLinks": "Жылдам сiлтемелер",
+    "contact": "Байланыс",
+    "contactEmail": "support@adaptwear.com",
+    "contactPhone": "+7 (700) 123-4567",
+    "contactAddress": "Астана, Қазақстан",
+    "rights": "Барлық құқықтар қорғалған.",
+    "sdgBadge": "БҰҰ Тұрақты даму мақсаттарын қолдау",
+    "privacy": "Құпиялылық саясаты",
+    "terms": "Қызмет көрсету шарттары"
+  },
+  "accessibility": {
+    "skipToContent": "Негiзгi мазмұнға өту",
+    "openMenu": "Навигация мәзiрiн ашу",
+    "closeMenu": "Навигация мәзiрiн жабу",
+    "languageSelector": "Тiлдi таңдау",
+    "toggleFilter": "Сүзгi панелiн ауыстыру",
+    "loadingContent": "Мазмұн жүктелуде",
+    "expandDetails": "Мәлiметтердi кеңейту",
+    "collapseDetails": "Мәлiметтердi жию",
+    "requiredField": "Бұл өрiс мiндеттi",
+    "formError": "Жоғарыдағы қателердi түзетiңiз",
+    "navigationMenu": "Негiзгi навигация",
+    "footerNavigation": "Төменгi навигация",
+    "productImage": "{{name}} өнiм суретi",
+    "suitabilityScoreLabel": "Сәйкестiк бағасы: 100-ден {{score}}"
+  }
+}
